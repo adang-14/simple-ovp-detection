@@ -1,3 +1,3 @@
 # simple-ovp-detection
 
-Codes to analyze if claim is fraud. Each observation is a separate claim. 
+Xgboost codes to analyze the legitimacy of a claim. Each observation is a separate claim. 
